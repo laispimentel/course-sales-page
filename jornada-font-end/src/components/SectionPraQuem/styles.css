@@ -1,0 +1,13 @@
+.pra-quem-container{
+    font-family: var(--font-title);
+    font-weight: 400;
+    width: 100%;
+}
+
+.pra-quem-content{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: justify;
+
+}
